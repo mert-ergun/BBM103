@@ -1,6 +1,0 @@
-Emre:Hacettepe University,Computer Engineering
-Kerem:METU,Architecture
-Leyla:Ankara University,Physics
-Sami:Bilkent University,Civil Engineering
-Mehmet:Hacettepe University, Artifical Intelligence Engineering
-Sinan:Gazi  University, Medicine

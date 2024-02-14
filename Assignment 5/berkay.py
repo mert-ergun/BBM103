@@ -1,2 +1,0 @@
-print("NOT ORTALAMASI HESAPLAMA")
-print("*" * len("NOT ORTALAMASI HESAPLAMA"))
